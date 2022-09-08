@@ -5,4 +5,4 @@ Lattice Semiconductor's iCEcube2™ design software and Lattice Diamond Programm
 also instrumental in the creation of this program.
 
 The code outlined in this repository is compatible ONLY with the Lattice Semiconductor
-iCE40HX-1k FPGA iCEstick.
+iCE40HX family of FPGA iCEsticks.
